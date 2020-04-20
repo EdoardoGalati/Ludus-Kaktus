@@ -49,10 +49,6 @@
     },
     {
       "class": "artboard",
-      "id": "722D0E34-42D3-421F-9159-AB65EE8E42CB"
-    },
-    {
-      "class": "artboard",
       "id": "8F898B92-7A31-4281-B17B-196741D2BE11"
     },
     {
@@ -74,58 +70,6 @@
     {
       "class": "artboard",
       "id": "6BF9FC2F-FF93-4ED8-85A7-375DC9E35045"
-    },
-    {
-      "class": "group",
-      "id": "4B3119EF-7490-491A-8D91-1BD7BC9C7AA4"
-    },
-    {
-      "class": "group",
-      "id": "953F03F8-9543-4923-A7E8-DF07FF36F168"
-    },
-    {
-      "class": "rectangle",
-      "id": "D4CCFD9B-BEBA-4727-8385-648D11D928D9"
-    },
-    {
-      "class": "text",
-      "id": "27771E32-2BAD-42B7-A357-06DECB8DD84A"
-    },
-    {
-      "class": "group",
-      "id": "30EEB609-18E6-4EE6-AE54-CD8B26974B15"
-    },
-    {
-      "class": "text",
-      "id": "6FFAF102-9EAC-44C2-8457-6DAC31194D96"
-    },
-    {
-      "class": "group",
-      "id": "9C646E76-2D65-4E66-B818-F464C5ACB1C9"
-    },
-    {
-      "class": "text",
-      "id": "E13D15FB-CC58-4437-A29B-F1C39618D337"
-    },
-    {
-      "class": "group",
-      "id": "64E403A3-CF91-4F5D-B2C2-1C6B2BAEAA59"
-    },
-    {
-      "class": "group",
-      "id": "92FD77F0-F4AC-48D8-9EFD-90E8B0C7DCCE"
-    },
-    {
-      "class": "text",
-      "id": "C33B5B62-4A72-46D5-A0C8-ED48B75CE6A1"
-    },
-    {
-      "class": "group",
-      "id": "A5F7C96E-B32B-405D-92D6-0323A15DFB40"
-    },
-    {
-      "class": "text",
-      "id": "7E897EF3-BEEC-4029-8CFC-3AE039A27C96"
     }
   ],
   "name": "Hifi",
