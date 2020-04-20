@@ -657,9 +657,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 0.8,
-                "blue": 0.08627450980392157,
-                "green": 0.08627450980392157,
-                "red": 0.08627450980392157
+                "blue": 0.08627450980392158,
+                "green": 0.08627450980392158,
+                "red": 0.08627450980392158
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -23095,9 +23095,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 0.94,
-                    "blue": 0.08627450980392157,
-                    "green": 0.08627450980392157,
-                    "red": 0.08627450980392157
+                    "blue": 0.08627450980392158,
+                    "green": 0.08627450980392158,
+                    "red": 0.08627450980392158
                   },
                   "contextSettings": {
                     "_class": "graphicsContextSettings",
@@ -23426,9 +23426,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 0.94,
-                    "blue": 0.08627450980392157,
-                    "green": 0.08627450980392157,
-                    "red": 0.08627450980392157
+                    "blue": 0.08627450980392158,
+                    "green": 0.08627450980392158,
+                    "red": 0.08627450980392158
                   },
                   "contextSettings": {
                     "_class": "graphicsContextSettings",

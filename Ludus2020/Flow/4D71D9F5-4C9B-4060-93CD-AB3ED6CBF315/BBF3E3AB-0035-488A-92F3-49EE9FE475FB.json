@@ -21,7 +21,7 @@
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0.05843232,
+          "kerning": 0.05843231999999998,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -134,7 +134,7 @@
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 0.05843232,
+        "kerning": 0.05843231999999998,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
