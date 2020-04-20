@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21193AE3-6436-4D20-8458-4BBE17B9D6D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1075,
+    "width": 375,
+    "x": 511,
+    "y": 66
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6BEDE47C-830B-40DA-837C-61E6CB7B564C"
+    },
+    {
+      "class": "text",
+      "id": "9E276430-CDA0-4B71-BAEE-FFECB9DCA1F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "9CE9396E-C0EE-40E2-9B46-CB551B44D3E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "20F44795-3647-42CE-BF2A-F9C039622F04"
+    },
+    {
+      "class": "rectangle",
+      "id": "9DC130CC-9968-487E-9C14-9BC91223CCFB"
+    },
+    {
+      "class": "rectangle",
+      "id": "10453940-F778-443C-B87F-D80273A91FAF"
+    },
+    {
+      "class": "rectangle",
+      "id": "E714A524-1B49-4B4E-BE6F-6DE129B481DD"
+    },
+    {
+      "class": "text",
+      "id": "E715AC07-21B4-476A-856E-B084F4652056"
+    },
+    {
+      "class": "rectangle",
+      "id": "074D0C37-65C3-4FF8-B7AE-64E86D2151FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "B4B7BAB0-9617-49C0-954D-1167C5180BC7"
+    },
+    {
+      "class": "text",
+      "id": "A9EDE51E-381F-47F6-A6CF-7B23AA4689A5"
+    },
+    {
+      "class": "text",
+      "id": "A8024D34-F681-416C-9689-2B7B44171792"
+    },
+    {
+      "class": "rectangle",
+      "id": "444FBAFB-6DE5-4BAE-AEE7-9A9DAAC3B692"
+    },
+    {
+      "class": "rectangle",
+      "id": "445698E4-DB17-444D-8E36-91F0AA72322C"
+    },
+    {
+      "class": "text",
+      "id": "23CEBDA2-1EBD-4062-B900-02C95F06974E"
+    },
+    {
+      "class": "rectangle",
+      "id": "A48CCA1E-2D4E-41CC-BAAA-BA005AB42EE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "AA043B54-45FC-4621-86EA-68008BFAFD53"
+    },
+    {
+      "class": "group",
+      "id": "35230B03-2371-4E27-8103-88CBD6FC27B1"
+    },
+    {
+      "class": "group",
+      "id": "626787F5-78D3-4CE5-A301-4CD015A0B67D"
+    },
+    {
+      "class": "group",
+      "id": "0C2354A0-A367-47F3-B422-B21401B718F9"
+    }
+  ],
+  "name": "iPhone 11 Pro",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone 11 Pro",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "422E0733-13EF-4617-A60C-E2654EB3C554",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
