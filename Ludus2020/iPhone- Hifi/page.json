@@ -1,0 +1,177 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F38F67EF-DC95-4BF3-9A37-7CCF5D8082D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -606,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "722D0E34-42D3-421F-9159-AB65EE8E42CB"
+    },
+    {
+      "class": "artboard",
+      "id": "3009CBFA-E158-4434-A0C2-53B0380F1A3D"
+    },
+    {
+      "class": "artboard",
+      "id": "04FD6DBA-2BDA-4E6C-8230-61002CC11B20"
+    },
+    {
+      "class": "artboard",
+      "id": "5C1E03EF-1464-461C-B1B1-EDA10987FBA7"
+    },
+    {
+      "class": "artboard",
+      "id": "A2B8526D-5158-486D-B3A2-F52CEEC290B0"
+    },
+    {
+      "class": "group",
+      "id": "4B3119EF-7490-491A-8D91-1BD7BC9C7AA4"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4CCFD9B-BEBA-4727-8385-648D11D928D9"
+    },
+    {
+      "class": "text",
+      "id": "27771E32-2BAD-42B7-A357-06DECB8DD84A"
+    },
+    {
+      "class": "group",
+      "id": "30EEB609-18E6-4EE6-AE54-CD8B26974B15"
+    },
+    {
+      "class": "text",
+      "id": "6FFAF102-9EAC-44C2-8457-6DAC31194D96"
+    },
+    {
+      "class": "group",
+      "id": "9C646E76-2D65-4E66-B818-F464C5ACB1C9"
+    },
+    {
+      "class": "text",
+      "id": "E13D15FB-CC58-4437-A29B-F1C39618D337"
+    },
+    {
+      "class": "group",
+      "id": "64E403A3-CF91-4F5D-B2C2-1C6B2BAEAA59"
+    },
+    {
+      "class": "group",
+      "id": "92FD77F0-F4AC-48D8-9EFD-90E8B0C7DCCE"
+    },
+    {
+      "class": "text",
+      "id": "C33B5B62-4A72-46D5-A0C8-ED48B75CE6A1"
+    },
+    {
+      "class": "group",
+      "id": "A5F7C96E-B32B-405D-92D6-0323A15DFB40"
+    },
+    {
+      "class": "text",
+      "id": "7E897EF3-BEEC-4029-8CFC-3AE039A27C96"
+    },
+    {
+      "class": "artboard",
+      "id": "BE0D4E26-1F5C-44C2-B097-8C9FACFC5A28"
+    },
+    {
+      "class": "artboard",
+      "id": "61B66ECA-DE3E-423D-B112-ABAB949C6355"
+    }
+  ],
+  "name": "iPhone- Hifi",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "46A26FB0-E66E-4B20-82EC-346340463010",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -484,
+    "guides": [
+    ]
+  }
+}

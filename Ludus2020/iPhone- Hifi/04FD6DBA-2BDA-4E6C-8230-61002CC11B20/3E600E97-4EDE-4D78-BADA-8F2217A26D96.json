@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E600E97-4EDE-4D78-BADA-8F2217A26D96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 161,
+    "width": 343,
+    "x": 16,
+    "y": 872
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C11682A5-5F61-4D1D-9975-5B97E68A649B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "83C99850-AC12-4E5A-AACA-6A72C155BBD6/308ECED6-49B4-4218-A631-70C501A887EE_stringValue",
+      "value": "10"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "83C99850-AC12-4E5A-AACA-6A72C155BBD6/8CF5F36C-E686-4BB2-9E21-E86BAFB5D68B_stringValue",
+      "value": "PS4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "83420E14-34A1-4D9E-8A0E-9365E8CEE393_stringValue",
+      "value": "Persona 5 Royal, 2020"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FADFC15B-063A-46BB-85D5-C96302AE25EE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ce7e30258eac1dddcc59036247f8513421406d2e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D114715D-9819-4A47-8959-B29EF8EEF94F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1BABC6E7-85C9-43F6-BCC1-E13CD515094C",
+  "verticalSpacing": 0
+}
