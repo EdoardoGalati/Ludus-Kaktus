@@ -41,6 +41,14 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "59B4509D-AA0B-4958-A6EA-EDE87332A5AD"
+    },
+    {
+      "class": "artboard",
+      "id": "9B8E4E4F-D512-478D-9CA7-0057D47243BB"
+    },
+    {
+      "class": "artboard",
       "id": "3009CBFA-E158-4434-A0C2-53B0380F1A3D"
     },
     {
@@ -62,6 +70,30 @@
     {
       "class": "artboard",
       "id": "61B66ECA-DE3E-423D-B112-ABAB949C6355"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E065C81-2A68-46B7-84D0-15EDD3A2C1D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CFE8884-6D14-4845-8933-17EA34B02744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "300CA2B4-63A8-407C-9D15-E7433628BB84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BE12B06-9E3A-4980-926F-5E09F64BEAD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A58B1BEE-1FCC-4986-AE2E-7032008669F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C69528B4-0999-4E46-9C8F-86F22CDC0328"
     }
   ],
   "name": "iPhone- Hifi",

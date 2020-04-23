@@ -33,27 +33,27 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "C11682A5-5F61-4D1D-9975-5B97E68A649B_symbolID",
+      "overrideName": "6C697336-2EED-4FDB-8EF3-9DB2C189E59A_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "overrideName": "83C99850-AC12-4E5A-AACA-6A72C155BBD6/308ECED6-49B4-4218-A631-70C501A887EE_stringValue",
+      "overrideName": "55A791D9-6A52-41FA-B19A-523CB862CDA8/308ECED6-49B4-4218-A631-70C501A887EE_stringValue",
       "value": "10"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "83C99850-AC12-4E5A-AACA-6A72C155BBD6/8CF5F36C-E686-4BB2-9E21-E86BAFB5D68B_stringValue",
+      "overrideName": "55A791D9-6A52-41FA-B19A-523CB862CDA8/8CF5F36C-E686-4BB2-9E21-E86BAFB5D68B_stringValue",
       "value": "PS4"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "83420E14-34A1-4D9E-8A0E-9365E8CEE393_stringValue",
+      "overrideName": "0AB14062-B9CE-4BF0-9CD4-112FF8796063_stringValue",
       "value": "Persona 5 Royal, 2020"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "FADFC15B-063A-46BB-85D5-C96302AE25EE_image",
+      "overrideName": "F6712368-115B-4A56-BD39-105A4E047ACC_image",
       "value": {
         "_class": "MSJSONFileReference",
         "_ref": "images/ce7e30258eac1dddcc59036247f8513421406d2e.png",
@@ -112,6 +112,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1BABC6E7-85C9-43F6-BCC1-E13CD515094C",
+  "symbolID": "3ADBA34F-1BE1-4778-BFD2-E0512775600C",
   "verticalSpacing": 0
 }
