@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -176,6 +176,10 @@
     {
       "class": "symbolInstance",
       "id": "4D461F40-54EE-4FE3-9CEF-7432E60990F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D32FC367-223F-451D-BB9D-65B3450E8C52"
     }
   ],
   "name": "Search Copy 2",

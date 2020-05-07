@@ -45,7 +45,15 @@
     },
     {
       "class": "artboard",
+      "id": "5E91978F-C1AB-433A-B491-053AAD6F102E"
+    },
+    {
+      "class": "artboard",
       "id": "9B8E4E4F-D512-478D-9CA7-0057D47243BB"
+    },
+    {
+      "class": "artboard",
+      "id": "03284CDE-4F70-4413-9B9D-04F5ADEF830D"
     },
     {
       "class": "artboard",
@@ -94,6 +102,42 @@
     {
       "class": "symbolInstance",
       "id": "C69528B4-0999-4E46-9C8F-86F22CDC0328"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB32F9C6-3ADD-4AF3-8D32-B1EB437FDD62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEB910E9-78BA-4A58-8A51-1EA3E367946A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35151272-3276-48ED-A03B-B82118EA869A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8FEB4C5-71A0-435B-9A56-EFB7E161D5A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5E56A3F-F538-458B-84F1-A5A835EAE345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E5D026E-701D-4E50-89BE-59F9FC65BB16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B80E19D-2A27-4A79-8779-08AD48DC9FA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A85BED2D-3CA1-45F5-A75A-6A509D6BA7F1"
+    },
+    {
+      "class": "text",
+      "id": "5CF422C5-9CA0-4144-A5AA-6E6AD0019F6D"
     }
   ],
   "name": "iPhone- Hifi",

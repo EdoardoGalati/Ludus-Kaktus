@@ -31,6 +31,11 @@
   "name": "Diary",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A368A68-A2AC-44A5-A821-03687B129FBE_stringValue",
+      "value": "Animal Crossing:\nNew     "
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,276 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.996078431372549,
+    "green": 1,
+    "red": 0.996078431372549
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03284CDE-4F70-4413-9B9D-04F5ADEF830D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3200,
+    "width": 375,
+    "x": 185,
+    "y": 5792
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      359,
+      16,
+      1715
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8A7E6E04-055A-49E0-B2BF-C8BF2E49D53C"
+    },
+    {
+      "class": "bitmap",
+      "id": "12E05A5E-5366-406E-9DA3-E3B1319CE163"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F372447-88DB-4DE2-8EA2-D6C9175F6215"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D55D204D-05A8-414C-AA2F-903B39DB9DB3"
+    },
+    {
+      "class": "group",
+      "id": "1065FC16-7D75-4A34-9E5D-660E590EF3A3"
+    },
+    {
+      "class": "text",
+      "id": "A4BF4F23-CB1D-468D-BEE0-F1D0CA2D7986"
+    },
+    {
+      "class": "text",
+      "id": "CBBFED62-0054-49A8-A67B-7E7F2392DC09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99B767EC-02E4-4624-A90C-5B1651C0C509"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB847F71-121A-4603-A3EB-F85A27D8F7AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA9F7329-42A5-431A-89A1-140FE35EAF8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F3093EE-5EBC-4FFA-A82B-9F78E8C68260"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8A6342F-4D9C-447A-BA19-A991DE50369C"
+    },
+    {
+      "class": "text",
+      "id": "4AF49AE0-D3F3-412F-9C1B-37AE1B037CA3"
+    },
+    {
+      "class": "text",
+      "id": "2B4C2A8D-586C-4730-89F9-CA137741DF82"
+    },
+    {
+      "class": "text",
+      "id": "F387D4D0-9A21-4EAF-860B-2855724FBE6C"
+    },
+    {
+      "class": "text",
+      "id": "9C9E15B4-C61C-461C-B1E6-F95885DA926F"
+    },
+    {
+      "class": "group",
+      "id": "541E7D6E-BA2E-4971-9920-5EF001C62801"
+    },
+    {
+      "class": "text",
+      "id": "5DFB40FF-0EFC-48CD-90B9-C18F6F6EDBCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE412C32-8BC9-47DD-8771-5763936AE28D"
+    },
+    {
+      "class": "group",
+      "id": "40788515-98AF-482C-92CD-7A2D25D6D079"
+    },
+    {
+      "class": "star",
+      "id": "D9F586D5-2C35-40C1-8144-E6BEBF3CEBA0"
+    },
+    {
+      "class": "text",
+      "id": "7253C0C9-066E-4913-ADDD-0750E906B0EF"
+    },
+    {
+      "class": "text",
+      "id": "8A047611-8836-455F-ABFC-98871685EB4B"
+    },
+    {
+      "class": "group",
+      "id": "29C4888B-998B-4F25-9E17-F997BD7853F1"
+    },
+    {
+      "class": "group",
+      "id": "48ECB9CA-4ABD-4AF2-8628-3D9DAE6E93C0"
+    },
+    {
+      "class": "group",
+      "id": "2213708C-9CDD-4873-A097-AE333524479A"
+    },
+    {
+      "class": "text",
+      "id": "F56B9FD1-C0FA-420E-A0EE-1A92B1B5BA6C"
+    },
+    {
+      "class": "text",
+      "id": "F37CA2D0-BACD-4294-A2ED-8FD853716592"
+    },
+    {
+      "class": "group",
+      "id": "57CCD8A2-AF29-46DE-B652-12C697CBDCB4"
+    },
+    {
+      "class": "group",
+      "id": "9E8A0A43-0506-4C9F-B675-0CE3AAB9AA00"
+    },
+    {
+      "class": "group",
+      "id": "C02DE5D5-949F-42A9-B13A-90907A7169DD"
+    },
+    {
+      "class": "group",
+      "id": "92E32D48-4BDB-4595-A1B3-D85B08122008"
+    },
+    {
+      "class": "group",
+      "id": "933A7CC2-0E32-4E38-9C2B-567C5ECCF899"
+    },
+    {
+      "class": "group",
+      "id": "29FD6AF3-3B12-4BA3-9E6A-DEB3E2E9EDC0"
+    },
+    {
+      "class": "group",
+      "id": "F84E31FA-6B63-4778-B7F6-5544E87649BC"
+    },
+    {
+      "class": "group",
+      "id": "10BD0ECB-A574-443E-834E-4E8E801BFAD2"
+    }
+  ],
+  "name": "Game Page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "09442A0B-4F28-470E-8505-7E5B0500B433",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      115
+    ]
+  }
+}
