@@ -298,6 +298,14 @@
     {
       "class": "symbolMaster",
       "id": "1A369C5D-D1CC-4DAC-A23F-85AD83790C4A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1CB22985-7BB3-4696-B8C2-E4A8DB6BAD2A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EFA65DEC-3BA1-471D-917C-76DBF8743A3C"
     }
   ],
   "name": "Symbols",

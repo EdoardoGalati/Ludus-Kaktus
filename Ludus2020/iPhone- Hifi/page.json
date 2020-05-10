@@ -81,6 +81,30 @@
     },
     {
       "class": "symbolInstance",
+      "id": "DB32F9C6-3ADD-4AF3-8D32-B1EB437FDD62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5E56A3F-F538-458B-84F1-A5A835EAE345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E5D026E-701D-4E50-89BE-59F9FC65BB16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B80E19D-2A27-4A79-8779-08AD48DC9FA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A85BED2D-3CA1-45F5-A75A-6A509D6BA7F1"
+    },
+    {
+      "class": "text",
+      "id": "5CF422C5-9CA0-4144-A5AA-6E6AD0019F6D"
+    },
+    {
+      "class": "symbolInstance",
       "id": "6E065C81-2A68-46B7-84D0-15EDD3A2C1D5"
     },
     {
@@ -105,10 +129,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DB32F9C6-3ADD-4AF3-8D32-B1EB437FDD62"
-    },
-    {
-      "class": "symbolInstance",
       "id": "CEB910E9-78BA-4A58-8A51-1EA3E367946A"
     },
     {
@@ -118,26 +138,6 @@
     {
       "class": "symbolInstance",
       "id": "F8FEB4C5-71A0-435B-9A56-EFB7E161D5A5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E5E56A3F-F538-458B-84F1-A5A835EAE345"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4E5D026E-701D-4E50-89BE-59F9FC65BB16"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8B80E19D-2A27-4A79-8779-08AD48DC9FA1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A85BED2D-3CA1-45F5-A75A-6A509D6BA7F1"
-    },
-    {
-      "class": "text",
-      "id": "5CF422C5-9CA0-4144-A5AA-6E6AD0019F6D"
     }
   ],
   "name": "iPhone- Hifi",

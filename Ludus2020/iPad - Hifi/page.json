@@ -39,6 +39,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "65DE565B-692D-44B9-B647-C5AEA93C22E5"
+    },
+    {
+      "class": "artboard",
+      "id": "4F4D9435-7760-49CA-AD93-4EFFA9812786"
+    },
+    {
+      "class": "artboard",
+      "id": "1E04D351-B441-4A4B-B757-CA7D5D073D5E"
+    },
+    {
+      "class": "artboard",
+      "id": "8921DA53-F473-4B42-8C0E-32F4F2E7F445"
+    },
+    {
+      "class": "artboard",
+      "id": "7C7F6019-C1EE-42A0-B9A5-420FB8669BCE"
+    },
+    {
+      "class": "artboard",
+      "id": "B3A583B0-162E-4D3F-86A3-B9896CCF8221"
+    },
+    {
+      "class": "artboard",
+      "id": "783F67E3-6C3F-4D5E-86F3-05D977F85C6A"
+    }
   ],
   "name": "iPad - Hifi",
   "nameIsFixed": true,

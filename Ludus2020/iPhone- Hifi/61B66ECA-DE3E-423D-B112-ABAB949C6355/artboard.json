@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 1026,
     "width": 375,
-    "x": 218,
+    "x": 216,
     "y": 2752
   },
   "groupLayout": {
@@ -120,6 +120,10 @@
     {
       "class": "symbolInstance",
       "id": "E91D6E70-4551-4893-AF31-AF415C312801"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2866FC5A-BEE0-4CA7-B8A3-A2E89DE7D3D2"
     },
     {
       "class": "symbolInstance",
